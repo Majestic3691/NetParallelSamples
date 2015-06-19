@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\bin\Debug\ParallelMorph.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\bin\Debug\ParallelMorph.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\bin\Debug\ParallelMorph.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\obj\Debug\ParallelMorph.EditSettings.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\obj\Debug\ParallelMorph.MainForm.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\obj\Debug\ParallelMorph.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\obj\Debug\Morph_CSharp.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\obj\Debug\ParallelMorph.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Morph\Morph_CSharp\obj\Debug\ParallelMorph.pdb

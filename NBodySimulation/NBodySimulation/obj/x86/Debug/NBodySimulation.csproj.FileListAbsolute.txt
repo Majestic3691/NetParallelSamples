@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\bin\Debug\NBodySimulation.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\bin\Debug\NBodySimulation.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\bin\Debug\NBodySimulationBackend.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\bin\Debug\NBodySimulationBackend.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\NBodySimulation.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\MainWindow.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\App.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\NBodySimulation_MarkupCompile.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\NBodySimulation.g.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\NBodySimulation.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\NBodySimulation.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\NBodySimulation.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulation\obj\x86\Debug\NBodySimulation.pdb

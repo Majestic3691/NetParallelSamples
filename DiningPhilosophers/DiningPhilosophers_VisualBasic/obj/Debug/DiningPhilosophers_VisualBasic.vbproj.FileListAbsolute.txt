@@ -1,0 +1,17 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\bin\Debug\DiningPhilosophers.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\bin\Debug\DiningPhilosophers.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\bin\Debug\DiningPhilosophers.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\DiningPhilosophers_VisualBasic.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\MainWindow.g.vb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\Application.g.vb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\DiningPhilosophers_MarkupCompile.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\DiningPhilosophers_MarkupCompile.lref
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\MainWindow.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\DiningPhilosophers.g.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\DiningPhilosophers_VisualBasic.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\DiningPhilosophers.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\DiningPhilosophers\DiningPhilosophers_VisualBasic\obj\Debug\DiningPhilosophers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\bin\Debug\GameOfLife.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\bin\Debug\GameOfLife.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\bin\Debug\GameOfLife.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\obj\Debug\GameOfLife.MainForm.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\obj\Debug\GameOfLife_CSharp.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\obj\Debug\GameOfLife.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\obj\Debug\GameOfLife.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_CSharp\obj\Debug\GameOfLife_CSharp.csprojResolveAssemblyReference.cache

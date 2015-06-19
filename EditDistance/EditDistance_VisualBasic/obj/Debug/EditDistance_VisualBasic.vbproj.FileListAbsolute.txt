@@ -1,0 +1,8 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\EditDistance\EditDistance_VisualBasic\bin\Debug\EditDistance.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\EditDistance\EditDistance_VisualBasic\bin\Debug\EditDistance.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\EditDistance\EditDistance_VisualBasic\bin\Debug\EditDistance.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\EditDistance\EditDistance_VisualBasic\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\EditDistance\EditDistance_VisualBasic\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\EditDistance\EditDistance_VisualBasic\obj\Debug\EditDistance.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\EditDistance\EditDistance_VisualBasic\obj\Debug\EditDistance.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\EditDistance\EditDistance_VisualBasic\obj\Debug\EditDistance_VisualBasic.vbprojResolveAssemblyReference.cache

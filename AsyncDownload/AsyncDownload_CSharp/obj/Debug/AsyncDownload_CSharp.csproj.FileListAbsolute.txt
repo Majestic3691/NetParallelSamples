@@ -1,0 +1,6 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_CSharp\bin\Debug\AsyncDownload.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_CSharp\bin\Debug\AsyncDownload.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_CSharp\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_CSharp\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_CSharp\obj\Debug\AsyncDownload.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_CSharp\obj\Debug\AsyncDownload.pdb

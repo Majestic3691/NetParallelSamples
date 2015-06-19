@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\bin\Debug\GameOfLife.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\bin\Debug\GameOfLife.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\bin\Debug\GameOfLife.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\obj\Debug\GameOfLife.MainForm.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\obj\Debug\Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\obj\Debug\GameOfLife_VisualBasic.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\obj\Debug\GameOfLife.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\obj\Debug\GameOfLife.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\GameOfLife\GameOfLife_VisualBasic\obj\Debug\GameOfLife_VisualBasic.vbprojResolveAssemblyReference.cache

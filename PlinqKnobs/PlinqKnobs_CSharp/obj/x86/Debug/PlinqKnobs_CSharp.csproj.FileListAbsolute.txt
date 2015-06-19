@@ -1,0 +1,4 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\PlinqKnobs\PlinqKnobs_CSharp\bin\Debug\PlinqKnobs.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\PlinqKnobs\PlinqKnobs_CSharp\bin\Debug\PlinqKnobs.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\PlinqKnobs\PlinqKnobs_CSharp\obj\x86\Debug\PlinqKnobs.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\PlinqKnobs\PlinqKnobs_CSharp\obj\x86\Debug\PlinqKnobs.pdb

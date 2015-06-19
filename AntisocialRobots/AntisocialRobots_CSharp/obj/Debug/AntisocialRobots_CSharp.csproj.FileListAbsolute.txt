@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\bin\Debug\AntisocialRobots.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\bin\Debug\AntisocialRobots.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\bin\Debug\AntisocialRobots.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\obj\Debug\AntisocialRobots_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\obj\Debug\MainWindow.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\obj\Debug\MainWindow.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\obj\Debug\App.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\obj\Debug\AntisocialRobots_MarkupCompile.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\obj\Debug\AntisocialRobots.g.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\obj\Debug\AntisocialRobots.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AntisocialRobots\AntisocialRobots_CSharp\obj\Debug\AntisocialRobots.pdb

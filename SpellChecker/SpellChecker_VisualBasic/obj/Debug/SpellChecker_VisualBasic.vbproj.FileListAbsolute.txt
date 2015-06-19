@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\bin\Debug\SpellChecker.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\bin\Debug\SpellChecker.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\bin\Debug\SpellChecker.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\Window1.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\Window1.g.vb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\Application.g.vb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\SpellChecker_MarkupCompile.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\SpellChecker.g.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\SpellChecker_VisualBasic.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\SpellChecker.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\SpellChecker.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_VisualBasic\obj\Debug\SpellChecker_VisualBasic.vbprojResolveAssemblyReference.cache

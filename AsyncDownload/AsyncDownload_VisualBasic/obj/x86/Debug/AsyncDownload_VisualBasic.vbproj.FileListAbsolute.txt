@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\bin\Debug\AsyncDownload.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\bin\Debug\AsyncDownload.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\bin\Debug\AsyncDownload.xml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\obj\x86\Debug\AsyncDownload.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\obj\x86\Debug\AsyncDownload_VisualBasic.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\obj\x86\Debug\AsyncDownload.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\obj\x86\Debug\AsyncDownload.xml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\obj\x86\Debug\AsyncDownload.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\AsyncDownload\AsyncDownload_VisualBasic\obj\x86\Debug\AsyncDownload_VisualBasic.vbprojResolveAssemblyReference.cache

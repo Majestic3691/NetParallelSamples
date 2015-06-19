@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\bin\Debug\Strassens.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\bin\Debug\Strassens.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\bin\Debug\Strassens.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\obj\Debug\Strassens_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\obj\Debug\Strassens.MainForm.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\obj\Debug\Strassens.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\obj\Debug\Strassens_CSharp.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\obj\Debug\Strassens.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Strassens\Strassens_CSharp\obj\Debug\Strassens.pdb

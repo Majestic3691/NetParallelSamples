@@ -1,0 +1,8 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\LINQRayTracer\LINQRayTracer_CSharp\bin\Debug\LINQRayTracer.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\LINQRayTracer\LINQRayTracer_CSharp\bin\Debug\LINQRayTracer.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\LINQRayTracer\LINQRayTracer_CSharp\bin\Debug\LINQRayTracer.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\LINQRayTracer\LINQRayTracer_CSharp\obj\Debug\Microsoft.ParallelComputingPlatform.ParallelExtensions.Samples.MainForm.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\LINQRayTracer\LINQRayTracer_CSharp\obj\Debug\Microsoft.ParallelComputingPlatform.ParallelExtensions.Samples.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\LINQRayTracer\LINQRayTracer_CSharp\obj\Debug\LINQRayTracer_CSharp.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\LINQRayTracer\LINQRayTracer_CSharp\obj\Debug\LINQRayTracer.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\LINQRayTracer\LINQRayTracer_CSharp\obj\Debug\LINQRayTracer.pdb

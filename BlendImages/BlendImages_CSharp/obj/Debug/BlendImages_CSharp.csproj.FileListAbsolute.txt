@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\bin\Debug\BlendImages.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\bin\Debug\BlendImages.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\bin\Debug\BlendImages.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\obj\Debug\BlendImages_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\obj\Debug\Microsoft.ParallelComputingPlatform.ParallelExtensions.Samples.MainForm.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\obj\Debug\Microsoft.ParallelComputingPlatform.ParallelExtensions.Samples.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\obj\Debug\BlendImages_CSharp.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\obj\Debug\BlendImages.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BlendImages\BlendImages_CSharp\obj\Debug\BlendImages.pdb

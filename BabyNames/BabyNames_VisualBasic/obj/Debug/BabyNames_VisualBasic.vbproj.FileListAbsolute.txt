@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\bin\Debug\BabyNames.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\bin\Debug\BabyNames.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\bin\Debug\BabyNames.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\MainWindow.g.vb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\Application.g.vb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\BabyNames_MarkupCompile.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\BabyNames_MarkupCompile.lref
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\MainWindow.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\Themes\Generic.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\BabyNames.g.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\BabyNames_VisualBasic.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\BabyNames.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_VisualBasic\obj\Debug\BabyNames.pdb

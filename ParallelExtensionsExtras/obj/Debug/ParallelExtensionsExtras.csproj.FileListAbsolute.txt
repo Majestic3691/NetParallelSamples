@@ -1,0 +1,5 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelExtensionsExtras\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelExtensionsExtras\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelExtensionsExtras\obj\Debug\ParallelExtensionsExtras.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelExtensionsExtras\obj\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelExtensionsExtras\obj\Debug\ParallelExtensionsExtras.pdb

@@ -1,0 +1,4 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelGrep\ParallelGrep_VisualBasic\bin\Debug\ParallelGrep.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelGrep\ParallelGrep_VisualBasic\bin\Debug\ParallelGrep.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelGrep\ParallelGrep_VisualBasic\obj\Debug\ParallelGrep.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ParallelGrep\ParallelGrep_VisualBasic\obj\Debug\ParallelGrep.pdb

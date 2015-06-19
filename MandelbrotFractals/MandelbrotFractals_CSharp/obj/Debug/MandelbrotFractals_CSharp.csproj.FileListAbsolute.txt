@@ -1,0 +1,8 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\MandelbrotFractals\MandelbrotFractals_CSharp\bin\Debug\MandelbrotFractals.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\MandelbrotFractals\MandelbrotFractals_CSharp\bin\Debug\MandelbrotFractals.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\MandelbrotFractals\MandelbrotFractals_CSharp\bin\Debug\MandelbrotFractals.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\MandelbrotFractals\MandelbrotFractals_CSharp\obj\Debug\Microsoft.Pcp.Pfx.InteractiveFractal.MainForm.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\MandelbrotFractals\MandelbrotFractals_CSharp\obj\Debug\Samples.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\MandelbrotFractals\MandelbrotFractals_CSharp\obj\Debug\MandelbrotFractals_CSharp.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\MandelbrotFractals\MandelbrotFractals_CSharp\obj\Debug\MandelbrotFractals.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\MandelbrotFractals\MandelbrotFractals_CSharp\obj\Debug\MandelbrotFractals.pdb

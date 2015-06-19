@@ -1,0 +1,16 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\bin\Debug\BabyNames.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\bin\Debug\BabyNames.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\bin\Debug\BabyNames.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\BabyNames_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\MainWindow.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\App.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\BabyNames_MarkupCompile.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\BabyNames_MarkupCompile.lref
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\MainWindow.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\Themes\Generic.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\BabyNames.g.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\BabyNames.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\BabyNames_CSharp.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\BabyNames.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\BabyNames\BabyNames_CSharp\obj\Debug\BabyNames.pdb

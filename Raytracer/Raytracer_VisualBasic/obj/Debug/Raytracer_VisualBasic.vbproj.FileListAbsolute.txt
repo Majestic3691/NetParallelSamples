@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\bin\Debug\Raytracer.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\bin\Debug\Raytracer.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\bin\Debug\Raytracer.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\obj\Debug\Raytracer_VisualBasic.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\obj\Debug\Microsoft.ParallelComputingPlatform.ParallelExtensions.Samples.Main.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\obj\Debug\Microsoft.ParallelComputingPlatform.ParallelExtensions.Samples.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\obj\Debug\Raytracer_VisualBasic.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\obj\Debug\Raytracer.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\Raytracer\Raytracer_VisualBasic\obj\Debug\Raytracer.pdb

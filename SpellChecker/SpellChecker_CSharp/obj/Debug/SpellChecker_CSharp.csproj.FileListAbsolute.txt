@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\bin\Debug\SpellChecker.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\bin\Debug\SpellChecker.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\bin\Debug\SpellChecker.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\bin\Debug\ParallelExtensionsExtras.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\bin\Debug\ParallelExtensionsExtras.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\SpellChecker_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\Window1.baml
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\Window1.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\App.g.cs
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\SpellChecker_MarkupCompile.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\SpellChecker.g.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\SpellChecker.Properties.Resources.resources
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\SpellChecker_CSharp.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\SpellChecker.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\SpellChecker\SpellChecker_CSharp\obj\Debug\SpellChecker.pdb

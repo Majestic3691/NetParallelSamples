@@ -1,0 +1,4 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulationBackend\bin\Debug\NBodySimulationBackend.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulationBackend\bin\Debug\NBodySimulationBackend.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulationBackend\obj\Debug\NBodySimulationBackend.dll
+C:\Users\Michael\Documents\Projects\NetParallelSamples\NBodySimulation\NBodySimulationBackend\obj\Debug\NBodySimulationBackend.pdb

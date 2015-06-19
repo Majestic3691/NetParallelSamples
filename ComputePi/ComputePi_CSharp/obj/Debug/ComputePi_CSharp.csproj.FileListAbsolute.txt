@@ -1,0 +1,6 @@
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ComputePi\ComputePi_CSharp\bin\Debug\ComputePi.exe.config
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ComputePi\ComputePi_CSharp\bin\Debug\ComputePi.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ComputePi\ComputePi_CSharp\bin\Debug\ComputePi.pdb
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ComputePi\ComputePi_CSharp\obj\Debug\ComputePi_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ComputePi\ComputePi_CSharp\obj\Debug\ComputePi.exe
+C:\Users\Michael\Documents\Projects\NetParallelSamples\ComputePi\ComputePi_CSharp\obj\Debug\ComputePi.pdb
